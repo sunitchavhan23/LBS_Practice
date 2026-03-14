@@ -23,7 +23,5 @@ This repository demonstrates the following Git operations:
 - Adding Files
 - Committing Changes
 - Creating Branches
-
-Switching Branches
-
-Pushing Code to GitHub
+- Switching Branches
+- Pushing Code to GitHub
